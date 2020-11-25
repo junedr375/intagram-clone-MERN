@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Deployed App --->> https://instagram-clone-mern-25a02.web.app/
+## Deployed App --->> https://instagram-clone-mern-25a02.web.app/
 
 An amazing mern instagram clone built using react js for frontend and firebase for backend😀😎!!.
 
